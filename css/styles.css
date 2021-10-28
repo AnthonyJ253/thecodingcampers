@@ -1,35 +1,44 @@
 body{
-    background-color: rgb(255, 235, 213);
+    background-color: #F3F0D7;
 }
 
 header h1 {
     font-family: 'Dancing Script', cursive;
-    font-size: 8vw;
-    color: rgb(223, 114, 81);
-    margin: 0;
-
+    font-size: 10em;
+    white-space: nowrap;
+    color: #aec7b0;
 }
 a{
-    color: rgb(0, 0, 0);
-    margin: 0 0.5vw;
-    font-family: 'Amatic SC', cursive;
-    font-size: 2vw;
+    color: #86a889;
+    margin: 0 1vw;
+    font-family: 'Zen Kaku Gothic Antique', sans-serif;
+    font-size: 1.5vw;
+}
+a:hover{
+    color: #FFBF86;
+}
+a:active{
+    color: #FFBF86;
 }
 li{
     margin-bottom: 15px;
+    color: white;
+    font-size: 2.2em;
+    font-family: 'Zen Kaku Gothic Antique', sans-serif;
+    line-height: 2em;
 }
 .jumbotron{
-    background-color: rgb(255, 235, 213);
-    margin: 0;
-    padding-bottom: 1vh;
+    background-color: #F3F0D7;
 }
 .green{
     background-color: lime;
-    margin-right: 100px;
+}
+.weekly{
+    background-color: #FFBF86;
 }
 .project{
-    font-family: 'Amatic SC', cursive;
+    font-family: 'Zen Kaku Gothic Antique', sans-serif;
     font-size: 7vw;
     margin-bottom: 3%;
-    color: rgb(223, 114, 81);
+    color: whitesmoke;
 }

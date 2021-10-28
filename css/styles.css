@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(255, 230, 177);
+}
+
+header h1 {
+    font-family: 'Dancing Script', cursive;
+    font-size: 8vw;
+    color: rgb(223, 114, 81);
+    margin: 0;
+
+}
+a{
+    color: rgb(0, 0, 0);
+    margin: 0 1vw;
+    font-family: 'Quicksand', sans-serif;
+    font-size: 1.5vw;
+}
+.jumbotron{
+    background-color: rgb(255, 230, 177);
+    margin: 0;
+}

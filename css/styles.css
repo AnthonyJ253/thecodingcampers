@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(255, 230, 177);
+    background-color: rgb(255, 235, 213);
 }
 
 header h1 {
@@ -11,11 +11,25 @@ header h1 {
 }
 a{
     color: rgb(0, 0, 0);
-    margin: 0 1vw;
-    font-family: 'Quicksand', sans-serif;
-    font-size: 1.5vw;
+    margin: 0 0.5vw;
+    font-family: 'Amatic SC', cursive;
+    font-size: 2vw;
+}
+li{
+    margin-bottom: 15px;
 }
 .jumbotron{
-    background-color: rgb(255, 230, 177);
+    background-color: rgb(255, 235, 213);
     margin: 0;
+    padding-bottom: 1vh;
+}
+.green{
+    background-color: lime;
+    margin-right: 100px;
+}
+.project{
+    font-family: 'Amatic SC', cursive;
+    font-size: 7vw;
+    margin-bottom: 3%;
+    color: rgb(223, 114, 81);
 }

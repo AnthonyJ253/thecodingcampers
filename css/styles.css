@@ -1,5 +1,5 @@
 body{
-    background-color: #F3F0D7;
+    background-color: #f8f6e5;
 }
 
 header h1 {
@@ -28,7 +28,7 @@ li{
     line-height: 2em;
 }
 .jumbotron{
-    background-color: #F3F0D7;
+    background-color: #f8f6e5;
 }
 .green{
     background-color: lime;

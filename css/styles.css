@@ -1,21 +1,21 @@
 body{
-    background-color: white;
+    background-color: #CDFFFC;
 }
 
 header h1 {
     font-family: 'Dancing Script', cursive;
     font-size: 10em;
     white-space: nowrap;
-    color: #black;
+    color: black;
 }
 a{
-    color: #14B1AB;
+    color: #55a39e;
     margin: 0 1vw;
     font-family: 'Zen Kaku Gothic Antique', sans-serif;
     font-size: 1.5vw;
 }
 a:hover{
-    color: #FF7B54;
+    color: #ffa754;
 }
 a:active{
     color: #FFBF86;
@@ -28,17 +28,17 @@ li{
     line-height: 2em;
 }
 .jumbotron{
-    background-color: white;
+    background-color: #CDFFFC;
 }
 .green{
     background-color: lime;
 }
 .weekly{
-    background-color: whitesmoke;
+    background-color: #8FD9A8;
 }
 .project{
     font-family: 'Zen Kaku Gothic Antique', sans-serif;
     font-size: 7vw;
     margin-bottom: 3%;
-    color: #14B1AB;
+    color: white;
 }

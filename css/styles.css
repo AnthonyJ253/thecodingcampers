@@ -1,44 +1,44 @@
 body{
-    background-color: #f8f6e5;
+    background-color: white;
 }
 
 header h1 {
     font-family: 'Dancing Script', cursive;
     font-size: 10em;
     white-space: nowrap;
-    color: #aec7b0;
+    color: #black;
 }
 a{
-    color: #86a889;
+    color: #14B1AB;
     margin: 0 1vw;
     font-family: 'Zen Kaku Gothic Antique', sans-serif;
     font-size: 1.5vw;
 }
 a:hover{
-    color: #FFBF86;
+    color: #FF7B54;
 }
 a:active{
     color: #FFBF86;
 }
 li{
     margin-bottom: 15px;
-    color: white;
+    color: #DED9C4;
     font-size: 2.2em;
     font-family: 'Zen Kaku Gothic Antique', sans-serif;
     line-height: 2em;
 }
 .jumbotron{
-    background-color: #f8f6e5;
+    background-color: white;
 }
 .green{
     background-color: lime;
 }
 .weekly{
-    background-color: #fcc799;
+    background-color: whitesmoke;
 }
 .project{
     font-family: 'Zen Kaku Gothic Antique', sans-serif;
     font-size: 7vw;
     margin-bottom: 3%;
-    color: whitesmoke;
+    color: #14B1AB;
 }
